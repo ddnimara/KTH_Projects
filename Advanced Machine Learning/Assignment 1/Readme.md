@@ -6,8 +6,7 @@ This Assignments covers a broad range of definitions and Machine Learning entint
 - [Linear](https://en.wikipedia.org/wiki/Linear_regression) and Non-Parametric Regression (based on kernels).
 - Point Estimates of Parameteres utilizing [Maximum Likelihood (ML)](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
   and [Maximum a Posteriori (MAP)](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation).
-- Bayesian approach to parameter learning which consists of **marginalization** the parameter out of the distribution (e.g. [type two 
-  maximum likelihood](https://en.wikipedia.org/wiki/Marginal_likelihood)).
+- Bayesian approach to parameter learning which revolves around **marginalization**, utilizing the parameter's distribution (e.g. [type     two maximum likelihood](https://en.wikipedia.org/wiki/Marginal_likelihood)).
 - Simple [Graphical Models](https://en.wikipedia.org/wiki/Graphical_model).
 - [Gaussian Processes](https://en.wikipedia.org/wiki/Gaussian_process).
 - [Representation Learning](http://www.robots.ox.ac.uk/~cvrg/hilary2006/ppca.pdf) (Factor Analysis, Probabilistic PCA).
