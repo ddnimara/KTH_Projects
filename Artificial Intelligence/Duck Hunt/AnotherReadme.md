@@ -22,4 +22,4 @@ In the end, we created two lists of HMM models:
 - The first contained a movement predicting HMM for each bird in the instance
 - The second contained an HMM for predicting species. The information from one environment carried over to the next.
 
-In the end, my implementation managed to accumulate ~408 (there was some variance, depending on the initialization) points.
+In the end, my implementation managed to accumulate ~408 (there was some variance, depending on the initialization) points on the [Duck Hunt](https://kth.kattis.com/problems/kth.ai.duckhunt) minigame.
