@@ -1,7 +1,6 @@
 # Extra Readme File containing more detailed information about the project
 
-The other readme file contains more practical inforomation on how to run the code. In this assignment, I implemented a Hiddden Markov Model
-([HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model))based AI agent in order to predict the **species** and **movements** of birds.
+The other readme file contains more practical information on how to run the code (as was given in the assignment). In this assignment, I implemented a Hiddden Markov Model([HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model)) based AI agent in order to predict the **species** and **movements** of birds.
 
 To do so, it **observed** their movements, and based on that it had to deduce:
 - The type (specie) of duck.
@@ -15,7 +14,7 @@ In the end of each round, the agent also guesses the specie of each bird, gainin
 To solve this assignment, I implemeneted an HMM class, covering the basic HMM such as Learning model Parameters and making inferences. The
 class contains three main algorithms:
 - [Forward Algorithm](https://en.wikipedia.org/wiki/Forward_algorithm)
-- [Viterbi Algorithm](https://en.wikipedia.org/wiki/Viterbi_algorithm)
+- [Viterbi Algorithm](https://en.wikipedia.org/wiki/Viterbi_algorithm) (implemented in log space to avoid underflow)
 - [Baum Welch Algorithm](https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm)
 
 In the end, we created two lists of HMM models: 
