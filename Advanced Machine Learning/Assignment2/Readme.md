@@ -1,4 +1,4 @@
-#Assignment 1 of Advanced Machine Learning
+# Assignment 2 of Advanced Machine Learning
 
 This file includes two main pdfs. One containing the general information and questions, and one containing my Answers.
 
