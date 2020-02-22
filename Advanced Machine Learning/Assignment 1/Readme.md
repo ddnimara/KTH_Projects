@@ -1,8 +1,8 @@
 # Assignment 1 of Advanced Machine Learning
 
-This file includes two main pdfs. One containing the general information and question, and one containing my Answers.
+This file includes two main pdfs. One containing the general information and questions, and one containing my Answers.
 
-This Assignments covers a broad range of definitions and Machine Learning entinties, focusing on the Gaussian Learning Approach, such as:
+This Assignments covers a broad range of definitions and Machine Learning entinties, focusing on the Bayesian Learning Approach, such as:
 - [Linear](https://en.wikipedia.org/wiki/Linear_regression) and Non-Parametric Regression (based on kernels).
 - Point Estimates of Parameteres utilizing [Maximum Likelihood (ML)](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
   and [Maximum a Posteriori (MAP)](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation).
