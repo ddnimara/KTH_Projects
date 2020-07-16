@@ -6,4 +6,17 @@ Most of the information about this work can be found in the notes.txt file. Over
 
 # Digit generation
 
-# Hidden Layer activation (examples) after 50k epochs
+<img src="digit_images/three_ft.png" width="200"/> <img src="digit_images/eight_ft.png" width="200"/>  <img src="digit_images/five_ft.png" width="200"/> 
+
+<img src="digit_images/nine_ft.png" width="200"/>  <img src="digit_images/six_ft.png" width="200"/> <img src="digit_images/zero_ft.png" width="200"/> 
+
+# Hidden Layer activation (examples) after 500 epochs
+
+| <img src="Figures 4_1/500_units/rf.iter_0_nod_500_epoch_10.png" width="200"/> | 
+|:--:| 
+| Hidden Layer activation at first iteration (0 epochs) |
+
+| <img src="Figures 4_1/500_units/rf.iter_50000_nod_500_epoch_17.png" width="200"/>  | 
+|:--:| 
+| Hidden Layer activation after 50000 iterations (500 epochs)|
+   
