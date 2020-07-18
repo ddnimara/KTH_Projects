@@ -1,4 +1,4 @@
-### Artificial Neural Network Course DD2437
+# Artificial Neural Network Course DD2437
 
 This course focuses on Neural Network Foundations, by implementing (from scratch, ocassionally using numpy) Neural Network Architectures:
 * [Multi Layer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron) (trained via backprop). MLPs can be utilised for both
@@ -13,3 +13,5 @@ images (noisy inputs converge to originally stored attractors).
 both as a discriminative model, as well as a generative one.
 * [Autoencoders](https://en.wikipedia.org/wiki/Autoencoder#:~:text=An%20autoencoder%20is%20a%20type,to%20ignore%20signal%20%E2%80%9Cnoise%E2%80%9D.). Undercomplete
 autoencoders can be used for data compression, while overcomplete can be used to project the data into a higher and sparser dimensional space.
+
+Feel free to read through the reports in the Lab Reports folder, or take a brief look in the readmes of each Lab for a summary (mostly through graphs and images) of key takeaways. Finally, I would like to highlight that all Labs were group labs, and I would like to thank my excellent friends, colleagues and fellow group members Adrian Campoy Rodriguez and Gustavo T. D. Beck.
